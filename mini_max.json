@@ -1,0 +1,17 @@
+{
+  "abab6.5s-chat": {
+    "max_tokens": 245760
+  },
+  "abab6.5g-chat": {
+    "max_tokens": 8192
+  },
+  "abab6.5t-chat": {
+    "max_tokens": 8192
+  },
+  "abab5.5s-chat": {
+    "max_tokens": 8192
+  },
+  "abab5.5-chat": {
+    "max_tokens": 16384
+  }
+}
